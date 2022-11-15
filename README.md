@@ -11,7 +11,7 @@
 
 ## Как пользоваться?
 - Установите расширение Stylebot [Chrome / Cent / Edge / Yandex / Другие Chromium](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?utm_source=chrome-ntp-icon) | [Firefox](https://addons.mozilla.org/ru/firefox/addon/stylebot-web/)
-- <a href="https://raw.githubusercontent.com/Data-Name-ID/yandex-without-ad/main/stylebot-config.json" download>Скачайте файл конфигурации</a>
+- [Скачайте файл конфигурации](https://raw.githubusercontent.com/Data-Name-ID/yandex-without-ad/main/stylebot-config.json)
 - [Импортируйте](chrome-extension://oiaejidbmkiecgbjeifoejpgmdaleoha/options/index.html) файл в настройках расширения
 
 ### Обязательная настройка Яндекс.Почты
