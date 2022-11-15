@@ -1,0 +1,56 @@
+{
+  "duckduckgo.com": {
+    "css": ".footer, .js-feedback-btn-wrap {\r\n  display: none;\r\n}",
+    "enabled": true,
+    "modifiedTime": "2022-11-05T16:20:12.918+03:00",
+    "readability": false
+  },
+  "habr.com": {
+    "css": ".tm-page__sidebar {\r\n  display: none;\r\n}\r\n\r\n.tm-page__main_has-sidebar {\r\n  max-width: 3500px;\r\n}",
+    "enabled": true,
+    "modifiedTime": "2022-11-12T11:37:23.110+03:00",
+    "readability": false
+  },
+  "infourok.ru": {
+    "css": ".roxotAdContainer {\r\n  display: none;\r\n}",
+    "enabled": true,
+    "modifiedTime": "2022-11-15T20:15:40.288+03:00",
+    "readability": false
+  },
+  "kickscontest.ru": {
+    "css": ".plate {\r\n  display: none;\r\n}",
+    "enabled": true,
+    "modifiedTime": "2022-11-11T08:31:28.963+03:00",
+    "readability": false
+  },
+  "www.softportal.com": {
+    "css": ".pading {\r\n  display: none;\r\n}",
+    "enabled": true,
+    "modifiedTime": "2022-09-23T17:53:52.698+03:00",
+    "readability": false
+  },
+  "yandex.ru": {
+    "css": "/* Поиск и другие сервисы */\r\n.incut, .distr-nav, .yaplus {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Картинки */\r\n.b-statcounter + div {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Погода */\r\n.content__bottom + div, .content__bottom + div + div, .card_without-card-decoration, .promo {\r\n  display: none;\r\n}\r\n.content[role=main] > div {\r\n  margin: 10px;\r\n}\r\nfooter {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n",
+    "readability": false,
+    "enabled": true,
+    "modifiedTime": "2022-11-15T21:40:30.134+03:00"
+  },
+  "mail.yandex.ru": {
+    "css": "/* Удаляет рекламу слева, если отключён компактный режим */\r\n.ns-view-react-left-column + div, .qa-LeftColumn-Collectors + div {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Блок удаления верхней плашки рекламы: из него вытекает передвижение других элементов интерфейса [Панель поиска, кнопка настроек, аватар, кнопка 'Все сервисы'] */\r\n.ns-view-advanced-search-box + div {\r\n  display: none;\r\n}\r\n\r\n.ns-view-header-box {\r\n  position: absolute;\r\n  top: -25px;\r\n  width: inherit;\r\n}\r\n\r\n.ns-view-advanced-search-box {\r\n  top: 50px;\r\n  left: 5px;\r\n}\r\n\r\n.PSHeader-Right {\r\n  height: 48px;\r\n}\r\n\r\n.mail-SettingsButton {\r\n  padding: 0;\r\n  margin: 0;\r\n  top: 1px;\r\n}\r\n\r\n.light-popup {\r\n  top: 38px;\r\n  right: -10px;\r\n}\r\n\r\n.search-input__form-activator {\r\n  top: 1px;\r\n  right: 3px;\r\n  margin: 0;\r\n}\r\n\r\n.ns-view-more-services {\r\n  padding: 0;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Убирает ненужные ссылки в самом низу */\r\n.mail-App-Footer {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Добавляет отступ внизу страницы для симетрии */\r\n.mail-Layout {\r\n  padding-bottom: 20px;\r\n}\r\n/* Конец блока */",
+    "readability": false,
+    "enabled": true,
+    "modifiedTime": "2022-11-15T21:41:29.963+03:00"
+  },
+  "docs.yandex.ru": {
+    "css": ".LeftColumn__InnerWrapperBottom, .PSHeader-Pro, footer {\r\n  display: none;\r\n}",
+    "readability": false,
+    "enabled": true,
+    "modifiedTime": "2022-11-15T21:41:35.226+03:00"
+  },
+  "disk.yandex.ru": {
+    "css": ".LeftColumn__InnerWrapperBottom, .PSHeader-Pro, footer {\r\n  display: none;\r\n}",
+    "readability": false,
+    "enabled": true,
+    "modifiedTime": "2022-11-15T21:41:40.079+03:00"
+  }
+}
