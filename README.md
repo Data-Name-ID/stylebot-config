@@ -1,10 +1,11 @@
 # Яндекс без рекламы! [И другие сайты тоже]
 
+<img src="https://i.imgur.com/PctuXNX.png">
+
 Конфигурационный файл для Stylebot, который скрывает всю рекламу там, где обычных AdBlock не справляется. Например, на популярных сервисах Яндекса, таких как Почта, Погода, Поиск, Картинки.
 
 <details>
   <summary>Примеры</summary>
-  <img src="https://i.imgur.com/PctuXNX.png">
   <img src="https://i.imgur.com/wro3kAv.png">
   <img src="https://i.imgur.com/c00Tbxv.png">
 </details>
