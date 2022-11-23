@@ -47,6 +47,12 @@
     "modifiedTime": "2022-11-15T21:41:29.963+03:00",
     "readability": false
   },
+  "ru.wikipedia.org": {
+    "css": "* {\r\n  font-family: Open Sans;\r\n}\r\n\r\n#mw-page-base, #mw-head, .mw-editsection, footer, #siteSub, .wb-langlinks-edit {\r\n  display: none;\r\n}\r\n\r\nbody {\r\n  background-color: white;\r\n}\r\n\r\n#content {\r\n  margin: 0 auto;\r\n  width: 900px;\r\n  border: none;\r\n  padding: 30px 0;\r\n}\r\n\r\n#contentSub {\r\n  margin-left: 0;\r\n}\r\n\r\n#firstHeading {\r\n  border: none;\r\n  font-size: 36px;\r\n}\r\n\r\n.hatnote {\r\n  margin-bottom: 20px;\r\n  padding: 0;\r\n  font-style: normal;\r\n}\r\n\r\n.infobox, .toc {\r\n  float: none;\r\n  margin: 0;\r\n  width: 100%;\r\n  margin-bottom: 30px;\r\n}\r\n\r\n.toc, .toc li {\r\n  font-size: 14px;\r\n}\r\n\r\n.mw-headline {\r\n  font-size: 19px;\r\n}\r\n\r\np {\r\n  font-size: 17px;\r\n  line-height: 28px;\r\n  margin: 6px 0 20px;\r\n}\r\n\r\nli {\r\n  font-size: 17px;\r\n}\r\n\r\n#mw-panel > * {\r\n  display: none;\r\n}\r\n\r\n#mw-panel > #p-lang, #mw-panel > #p-coll-print_export {\r\n  display: block;\r\n}\r\n\r\n#mw-panel {\r\n  display: block;\r\n  font-size: 13px;\r\n  padding-top: 30px;\r\n}\r\n\r\n#mw-panel li {\r\n  font-size: 13px;\r\n}\r\n",
+    "readability": false,
+    "enabled": false,
+    "modifiedTime": "2022-11-23T19:49:21.411+03:00"
+  },
   "www.softportal.com": {
     "css": ".pading {\r\n  display: none;\r\n}",
     "enabled": true,
@@ -58,11 +64,5 @@
     "enabled": true,
     "modifiedTime": "2022-11-20T19:40:51.192+03:00",
     "readability": false
-  },
-  "ru.wikipedia.org": {
-    "css": "* {\r\n  font-family: Open Sans;\r\n}\r\n\r\n#mw-panel, #mw-page-base, #mw-head, .mw-editsection, footer, #siteSub {\r\n  display: none;\r\n}\r\n\r\nbody {\r\n  background-color: white;\r\n}\r\n\r\n#content {\r\n  margin: 0 auto;\r\n  width: 900px;\r\n  border: none;\r\n  padding: 50px 0;\r\n}\r\n\r\n#firstHeading {\r\n  border: none;\r\n  font-size: 36px;\r\n}\r\n\r\n.hatnote {\r\n  margin-bottom: 20px;\r\n  padding: 0;\r\n  font-style: normal;\r\n}\r\n\r\n.infobox, .toc {\r\n  float: none;\r\n  margin: 0;\r\n  width: 100%;\r\n  margin-bottom: 30px;\r\n}\r\n\r\n.toc, .toc li {\r\n  font-size: 14px;\r\n}\r\n\r\n.mw-headline {\r\n  font-size: 19px;\r\n}\r\n\r\np {\r\n  font-size: 17px;\r\n  line-height: 28px;\r\n  margin: 6px 0 20px;\r\n}\r\n\r\nli {\r\n  font-size: 17px;\r\n}\r\n",
-    "readability": false,
-    "enabled": false,
-    "modifiedTime": "2022-11-23T17:06:34.522+03:00"
   }
 }
