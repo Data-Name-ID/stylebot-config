@@ -54,9 +54,15 @@
     "readability": false
   },
   "yandex.ru": {
-    "css": "/* Поиск и другие сервисы */\r\n.incut, .distr-nav, .yaplus {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Картинки */\r\n.b-statcounter + div {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Погода */\r\n.content__bottom + div, .content__bottom + div + div, .card_without-card-decoration, .promo {\r\n  display: none;\r\n}\r\n.content[role=main] > div {\r\n  margin: 10px;\r\n}\r\nfooter {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n",
+    "css": "/* Поиск и другие сервисы */\r\n.incut, .distr-nav, .yaplus {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Картинки */\r\n.b-statcounter + div {\r\n  display: none;\r\n}\r\n\r\n.MediaViewer-LayoutFooter {\r\n  display: none;\r\n}\r\n\r\n.RelatedImages div[style=\"margin-bottom: 4px;\"] {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Погода */\r\n.content__bottom + div, .content__bottom + div + div, .card_without-card-decoration, .promo {\r\n  display: none;\r\n}\r\n\r\n.content[role=main] > div {\r\n  margin: 10px;\r\n}\r\n\r\nfooter {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n",
     "enabled": true,
-    "modifiedTime": "2022-11-15T21:40:30.134+03:00",
+    "modifiedTime": "2022-11-20T19:40:51.192+03:00",
     "readability": false
+  },
+  "ru.wikipedia.org": {
+    "css": "* {\r\n  font-family: Open Sans;\r\n}\r\n\r\n#mw-panel, #mw-page-base, #mw-head, .mw-editsection, footer, #siteSub {\r\n  display: none;\r\n}\r\n\r\nbody {\r\n  background-color: white;\r\n}\r\n\r\n#content {\r\n  margin: 0 auto;\r\n  width: 900px;\r\n  border: none;\r\n  padding: 50px 0;\r\n}\r\n\r\n#firstHeading {\r\n  border: none;\r\n  font-size: 36px;\r\n}\r\n\r\n.hatnote {\r\n  margin-top: -15px;\r\n  margin-bottom: 20px;\r\n  padding: 0;\r\n  font-style: normal;\r\n}\r\n\r\n.infobox, .toc {\r\n  float: none;\r\n  margin: 0;\r\n  width: 100%;\r\n  margin-bottom: 30px;\r\n}\r\n\r\n.toc, .toc li {\r\n  font-size: 14px;\r\n}\r\n\r\n.mw-headline {\r\n  font-size: 19px;\r\n}\r\n\r\np {\r\n  font-size: 17px;\r\n  line-height: 28px;\r\n  margin: 6px 0 20px;\r\n}\r\n\r\nli {\r\n  font-size: 17px;\r\n}\r\n",
+    "readability": false,
+    "enabled": false,
+    "modifiedTime": "2022-11-23T17:06:34.522+03:00"
   }
 }
