@@ -1,8 +1,14 @@
 {
-  "disk.yandex.ru": {
-    "css": ".LeftColumn__InnerWrapperBottom, .PSHeader-Pro, footer {\r\n  display: none;\r\n}",
+  "*.wikipedia.org": {
+    "css": "@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');\r\n\r\n * {\r\n  font-family: Open Sans;\r\n}\r\n\r\n#mw-page-base, #mw-head, .mw-editsection, footer, #siteSub, .wb-langlinks-edit {\r\n  display: none;\r\n}\r\n\r\nbody {\r\n  background-color: white;\r\n}\r\n\r\n#content {\r\n  margin: 0 auto;\r\n  width: 900px;\r\n  border: none;\r\n  padding: 30px 0;\r\n}\r\n\r\n#contentSub {\r\n  margin-left: 0;\r\n}\r\n\r\n#firstHeading {\r\n  border: none;\r\n  font-size: 36px;\r\n}\r\n\r\n.hatnote {\r\n  margin-bottom: 20px;\r\n  padding: 0;\r\n  font-style: normal;\r\n}\r\n\r\n.infobox, .toc {\r\n  float: none;\r\n  margin: 0;\r\n  width: 100%;\r\n  margin-bottom: 30px;\r\n}\r\n\r\n.toc, .toc li {\r\n  font-size: 14px;\r\n}\r\n\r\n.mw-headline {\r\n  font-size: 19px;\r\n}\r\n\r\np {\r\n  font-size: 17px;\r\n  line-height: 28px;\r\n  margin: 6px 0 20px;\r\n}\r\n\r\nli {\r\n  font-size: 17px;\r\n}\r\n\r\n#mw-panel > * {\r\n  display: none;\r\n}\r\n\r\n#mw-panel > #p-lang, #mw-panel > #p-coll-print_export {\r\n  display: block;\r\n}\r\n\r\n#mw-panel {\r\n  display: block;\r\n  font-size: 13px;\r\n  padding-top: 30px;\r\n}\r\n\r\n#mw-panel li {\r\n  font-size: 13px;\r\n}\r\n",
     "enabled": true,
-    "modifiedTime": "2022-11-15T21:41:40.079+03:00",
+    "modifiedTime": "2023-02-23T12:15:00.616+03:00",
+    "readability": false
+  },
+  "disk.yandex.ru": {
+    "css": ".LeftColumn__InnerWrapperBottom, .PSHeader-Pro, footer, .AppLink, .InfoSpace__Button {\r\n  display: none;\r\n}\r\n\r\n.LeftColumn__InnerWrapperBottom {\r\n  display: block;\r\n}",
+    "enabled": true,
+    "modifiedTime": "2023-03-28T12:16:38.553+03:00",
     "readability": false
   },
   "docs.yandex.ru": {
@@ -47,22 +53,22 @@
     "modifiedTime": "2022-11-15T21:41:29.963+03:00",
     "readability": false
   },
-  "*.wikipedia.org": {
-    "css": "@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');\r\n\r\n * {\r\n  font-family: Open Sans;\r\n}\r\n\r\n#mw-page-base, #mw-head, .mw-editsection, footer, #siteSub, .wb-langlinks-edit {\r\n  display: none;\r\n}\r\n\r\nbody {\r\n  background-color: white;\r\n}\r\n\r\n#content {\r\n  margin: 0 auto;\r\n  width: 900px;\r\n  border: none;\r\n  padding: 30px 0;\r\n}\r\n\r\n#contentSub {\r\n  margin-left: 0;\r\n}\r\n\r\n#firstHeading {\r\n  border: none;\r\n  font-size: 36px;\r\n}\r\n\r\n.hatnote {\r\n  margin-bottom: 20px;\r\n  padding: 0;\r\n  font-style: normal;\r\n}\r\n\r\n.infobox, .toc {\r\n  float: none;\r\n  margin: 0;\r\n  width: 100%;\r\n  margin-bottom: 30px;\r\n}\r\n\r\n.toc, .toc li {\r\n  font-size: 14px;\r\n}\r\n\r\n.mw-headline {\r\n  font-size: 19px;\r\n}\r\n\r\np {\r\n  font-size: 17px;\r\n  line-height: 28px;\r\n  margin: 6px 0 20px;\r\n}\r\n\r\nli {\r\n  font-size: 17px;\r\n}\r\n\r\n#mw-panel > * {\r\n  display: none;\r\n}\r\n\r\n#mw-panel > #p-lang, #mw-panel > #p-coll-print_export {\r\n  display: block;\r\n}\r\n\r\n#mw-panel {\r\n  display: block;\r\n  font-size: 13px;\r\n  padding-top: 30px;\r\n}\r\n\r\n#mw-panel li {\r\n  font-size: 13px;\r\n}\r\n",
-    "enabled": true,
-    "modifiedTime": "2022-11-23T19:49:21.411+03:00",
-    "readability": false
-  },
   "softportal.com": {
     "css": ".pading {\r\n  display: none;\r\n}",
     "enabled": true,
     "modifiedTime": "2022-09-23T17:53:52.698+03:00",
     "readability": false
   },
-  "yandex.ru": {
-    "css": "/* Поиск и другие сервисы */\r\n.incut, .distr-nav, .yaplus {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Картинки */\r\n.b-statcounter + div {\r\n  display: none;\r\n}\r\n\r\n.MediaViewer-LayoutFooter {\r\n  display: none;\r\n}\r\n\r\n.RelatedImages div[style=\"margin-bottom: 4px;\"] {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Погода */\r\n.content__bottom + div, .content__bottom + div + div, .card_without-card-decoration, .promo {\r\n  display: none;\r\n}\r\n\r\n.content[role=main] > div {\r\n  margin: 10px;\r\n}\r\n\r\nfooter {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n",
+  "vk.com": {
+    "css": "",
     "enabled": true,
-    "modifiedTime": "2022-11-20T19:40:51.192+03:00",
+    "modifiedTime": "2023-02-15T19:02:38.397+03:00",
     "readability": false
+  },
+  "yandex.ru": {
+    "css": "/* Поиск и другие сервисы */\r\n.incut, .distr-nav, .yaplus {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Картинки */\r\n.b-statcounter + div {\r\n  display: none;\r\n}\r\n\r\n.MediaViewer-LayoutFooter {\r\n  display: none;\r\n}\r\n\r\n.RelatedImages div[style=\"margin-bottom: 4px;\"] {\r\n  display: none;\r\n}\r\n/* Конец блока */\r\n\r\n\r\n/* Яндекс Погода */\r\n.content__bottom + div, .content__bottom + div + div, .card_without-card-decoration, .promo {\r\n  display: none;\r\n}\r\n\r\n.content[role=main] > div {\r\n  margin: 10px;\r\n}\r\n/* Конец блока */\r\n\r\n.sideblock {\r\n  max-width: 1500px;\r\n}\r\n\r\n",
+    "readability": false,
+    "enabled": true,
+    "modifiedTime": "2023-03-28T17:40:02.627+03:00"
   }
 }
